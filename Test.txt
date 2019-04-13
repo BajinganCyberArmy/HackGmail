@@ -1,0 +1,5 @@
+apt update && apt upgrade
+apt install python2
+apt install git
+pkg install pip
+pip2 install requests
